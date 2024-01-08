@@ -17,5 +17,9 @@ def food():
 
 while(True):
     food()
+<<<<<<< HEAD
     #hello from me
     print("hello")
+=======
+    
+>>>>>>> 0de771144811428b9137b4df90595ffecb8118f5
