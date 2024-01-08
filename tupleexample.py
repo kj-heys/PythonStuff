@@ -16,3 +16,8 @@ x = tuple(y)
 print(x)
 
 print("never ever leave your machine open")
+<<<<<<< HEAD
+=======
+
+# I hate Git
+>>>>>>> master
