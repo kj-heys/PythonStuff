@@ -21,10 +21,23 @@ while(True):
     #hello from me
     print("hello")
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> master
 =======
 
     #Kieran is the greatest
 >>>>>>> master
 =======
+<<<<<<< HEAD
+=======
+
+    #Kieran is the greatest
+
+    #This is now interesting. 
+>>>>>>> master
+=======
+>>>>>>> master
     
 >>>>>>> 0de771144811428b9137b4df90595ffecb8118f5
